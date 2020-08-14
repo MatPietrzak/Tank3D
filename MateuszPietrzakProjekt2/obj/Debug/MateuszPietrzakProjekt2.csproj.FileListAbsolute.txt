@@ -1,0 +1,30 @@
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe.config
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.pdb
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Form1.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.pdb
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe.config
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.pdb
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Form1.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.pdb
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe.config
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\bin\Debug\MateuszPietrzakProjekt2.pdb
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Form1.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.exe
+C:\Users\Mateusz\source\repos\MateuszPietrzakProjekt2 — kopia — kopia\MateuszPietrzakProjekt2\obj\Debug\MateuszPietrzakProjekt2.pdb
